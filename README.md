@@ -1,9 +1,28 @@
-# Block Number
+# Hush
 
-**[⬇️ Download latest APK](https://github.com/tareknahas85-star/block-number-android/releases/download/latest/block-number.apk)** &nbsp;|&nbsp; **[⬇️ حمّل آخر نسخة APK](https://github.com/tareknahas85-star/block-number-android/releases/download/latest/block-number.apk)**
+**Call blocker for Android: the people you know ring, strangers bounce.**
+**حاجب مكالمات لأندرويد: اللي بتعرفو بيرن، والغريب بيرجع.**
+
+![Hush poster](docs/Hush-poster.png)
+
+**[⬇️ Download APK · حمّل التطبيق](https://github.com/tareknahas85-star/Hush/releases/download/latest/block-number.apk)** &nbsp;·&nbsp; [📋 Spam list · لستة السبام](https://github.com/tareknahas85-star/block-number-data) &nbsp;·&nbsp; [English](#in-english) &nbsp;·&nbsp; [بالعربي](#بالعربي)
+
+### Why "Hush"?
+
+From the 1920s to the 1950s, the **Hush-A-Phone** was a small cup you clipped onto your phone's mouthpiece so people around you couldn't hear your call. The phone company said nobody could attach anything to *its* phones. In **1956** a US appeals court sided with Hush-A-Phone: you may add something to your own phone as long as it helps you and harms no one else. It was an early step toward letting people connect their own devices to the phone network.
+
+Hush keeps the same idea: your phone, your rules.
+
+### ليش اسمو Hush؟
+
+من العشرينات لحد الخمسينات، كان في قطعة اسمها **Hush-A-Phone**: كاسة صغيرة بتركّبها عسمّاعة التلفون مشان اللي حواليك ما يسمعو حكيك. شركة التلفونات قالت ممنوع حدا يركّب شي على تلفوناتها. بـ**1956** محكمة استئناف أمريكية حكمت لصالح Hush-A-Phone: من حقك تضيف شي لتلفونك طالما بيفيدك وما بيضرّ حدا. وهاد كان من أول الخطوات اللي خلّت الناس توصّل أجهزتها عشبكة التلفون.
+
+وHush ماشي عنفس الفكرة: تلفونك، وقواعدك.
+
+> The app on your phone still shows its old name, **Block Number · حظر الأرقام**.
+> التطبيق عالتلفون لسا اسمو **حظر الأرقام**.
 
 ---
-
 ## In English
 
 An Android app that blocks calls you do not want. It uses the official Android way to check calls, so you do not need root, and you do not need to change your phone dialer. The app is in Arabic and English.
@@ -26,7 +45,7 @@ An Android app that blocks calls you do not want. It uses the official Android w
 
 ### How to build it
 
-**With GitHub Actions (easier):** push your changes to the repo, and the app file is published on the [releases page](https://github.com/tareknahas85-star/block-number-android/releases/tag/latest).
+**With GitHub Actions (easier):** push your changes to the repo, and the app file is published on the [releases page](https://github.com/tareknahas85-star/Hush/releases/tag/latest).
 
 **On your computer:**
 
@@ -74,7 +93,7 @@ Every blocked call is saved with the reason. If the app cannot read your contact
 
 ### كيف بتبنيه
 
-**عبر GitHub Actions (الأسهل):** ارفع تعديلاتك عالريبو، وملف التطبيق بيننشر بـ[صفحة الإصدارات](https://github.com/tareknahas85-star/block-number-android/releases/tag/latest).
+**عبر GitHub Actions (الأسهل):** ارفع تعديلاتك عالريبو، وملف التطبيق بيننشر بـ[صفحة الإصدارات](https://github.com/tareknahas85-star/Hush/releases/tag/latest).
 
 **عجهازك:**
 
