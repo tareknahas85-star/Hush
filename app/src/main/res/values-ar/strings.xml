@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">حظر الأرقام</string>
+    <string name="app_name">Hush</string>
     <string name="grant_role">خليه تطبيق فحص المكالمات</string>
     <string name="enable_blocking">الحماية شغّالة</string>
     <string name="block_unknown">حظر الأرقام اللي مو بجهات الاتصال</string>

@@ -58,9 +58,9 @@ jobs:
           } > release-notes.md
 
           if gh release view latest >/dev/null 2>&1; then
-            gh release edit latest --title "Block Number (latest build)" --notes-file release-notes.md
+            gh release edit latest --title "Hush (latest build)" --notes-file release-notes.md
           else
-            gh release create latest --title "Block Number (latest build)" --notes-file release-notes.md
+            gh release create latest --title "Hush (latest build)" --notes-file release-notes.md
           fi
 
           gh release upload latest block-number.apk --clobber

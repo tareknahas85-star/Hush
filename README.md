@@ -19,9 +19,6 @@ Hush keeps the same idea: your phone, your rules.
 
 وHush ماشي عنفس الفكرة: تلفونك، وقواعدك.
 
-> The app on your phone still shows its old name, **Block Number · حظر الأرقام**.
-> التطبيق عالتلفون لسا اسمو **حظر الأرقام**.
-
 ---
 ## In English
 

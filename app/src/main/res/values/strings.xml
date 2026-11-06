@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Block Number</string>
+    <string name="app_name">Hush</string>
     <string name="grant_role">Set as call screening app</string>
     <string name="enable_blocking">Protection enabled</string>
     <string name="block_unknown">Block numbers not in contacts</string>
