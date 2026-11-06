@@ -113,3 +113,10 @@ gradle assembleDebug
 7. إذا ولا شي من اللي فوق انطبق، بيسمح بالمكالمة.
 
 كل مكالمة محظورة بتنسجّل مع سببها. وإذا التطبيق ما قدر يقرا جهات اتصالك، بيسمح بالمكالمات بدل ما يحظرها.
+
+
+## Contribute · ساهم معنا
+
+Want to help? Read [CONTRIBUTING.md](CONTRIBUTING.md). Issues labelled [`good first issue`](../../labels/good%20first%20issue) are an easy start, and questions or ideas are welcome in [Discussions](../../discussions).
+
+بدك تساعد؟ اقرا [CONTRIBUTING.md](CONTRIBUTING.md). المهام اللي عليها [`good first issue`](../../labels/good%20first%20issue) بداية سهلة، وأي سؤال أو فكرة احكيها بـ [Discussions](../../discussions).
