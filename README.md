@@ -7,6 +7,17 @@
 
 **[⬇️ Download APK · حمّل التطبيق](https://github.com/tareknahas85-star/Hush/releases/download/latest/block-number.apk)** &nbsp;·&nbsp; [📋 Spam list · لستة السبام](https://github.com/tareknahas85-star/block-number-data) &nbsp;·&nbsp; [English](#in-english) &nbsp;·&nbsp; [بالعربي](#بالعربي)
 
+### Downloads · التحميل
+
+| Item · الملف | Link · الرابط |
+|---|---|
+| 📘 Interactive guide, works offline · الدليل التفاعلي، بيشتغل بلا نت | [Hush-Guide.html](https://github.com/tareknahas85-star/Hush/releases/download/v1.0.0/Hush-Guide.html) |
+| 📱 APK (debug build) · ملف التطبيق (نسخة تجريبية) | [block-number.apk](https://github.com/tareknahas85-star/Hush/releases/download/latest/block-number.apk) |
+
+### Videos · الفيديوهات
+
+- 🎬 Full walkthrough · الشرح الكامل: [youtube.com/playlist?list=PLSWzjjKqjh0U](https://www.youtube.com/playlist?list=PLSWzjjKqjh0U)
+- 🪜 Step by step · خطوة بخطوة (4 episodes · 4 حلقات): [youtube.com/playlist?list=PLdR28SFPkvhk](https://www.youtube.com/playlist?list=PLdR28SFPkvhk)
 ### Why "Hush"?
 
 From the 1920s to the 1950s, the **Hush-A-Phone** was a small cup you clipped onto your phone's mouthpiece so people around you couldn't hear your call. The phone company said nobody could attach anything to *its* phones. In **1956** a US appeals court sided with Hush-A-Phone: you may add something to your own phone as long as it helps you and harms no one else. It was an early step toward letting people connect their own devices to the phone network.
@@ -20,6 +31,8 @@ Hush keeps the same idea: your phone, your rules.
 وHush ماشي عنفس الفكرة: تلفونك، وقواعدك.
 
 ---
+<a id="english"></a>
+
 ## In English
 
 An Android app that blocks calls you do not want. It uses the official Android way to check calls, so you do not need root, and you do not need to change your phone dialer. The app is in Arabic and English.
